@@ -1,8 +1,6 @@
 <?php include 'inc/header.php'; ?>
 
 
-<!-- Header (Photo en Background en CSS ) !-->
-
 
 <h2 class="title_page">Besoin d'un renseignement ?</h2>
 
