@@ -1,4 +1,5 @@
-<!-- footer !-->
+
+
 <footer class="footer_complete">
 
     <p class="copyright">Copyright © Joska Gyuricza 2019 - Tous droits réservés</p>

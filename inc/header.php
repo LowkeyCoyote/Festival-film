@@ -14,9 +14,9 @@
 </head>
 
 <body>
-<!-- Barre de navigation principale Barre de navigation principale !  ( à fixer avec le CSS ) !-->
+
 <header class="navbar_complete">
-    <!-- ajouter titre du festival en <h1> quelque part !-->
+
     <a class="navbar_brand" href="index.php"><img src="images/logo/logo_festival2.png" alt="logo du festival"/></a>
 
     <nav class="navbar_collapse">
